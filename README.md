@@ -1,4 +1,4 @@
-# Ch2.2
+# Module 02
 # Exercise: Git Ignore - Distinguishing between Staged, Modified, Untracked Files and Ignored files
 
 ## Step 1
