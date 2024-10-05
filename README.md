@@ -7,5 +7,7 @@ Familiarize yourself with the repository by checking the file structure, file co
 ## Step 2
 Run the `./chaos_monkey.sh` script.
 
+**NOTE**: Remember to give it execute permissions.
+
 ## Step 3
 Investigate and understand the file structure and repository status.
